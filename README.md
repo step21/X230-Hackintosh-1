@@ -1,12 +1,14 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/mighil) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E6%94%AF%E4%BB%98%E5%AE%9D-blue)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png) [![捐赠](https://img.shields.io/badge/%E6%8D%90%E8%B5%A0-%E5%BE%AE%E4%BF%A1-green)](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
 
-**22 Jun 2020: I don't have access to my X230 anymore. Please don't expect updates.**
+**15 Feb 2021: I relocated and I don't have access to X230 anymore. Please don't expect updates. Sorry.**
 
 **Note: You're nothing but an a-hole if you sell EFI folder (config) that's readily available for free.**
 
 # X230 Hackintosh Catalina 10.15.2 Clover & Config.
 
-Fork or star, it's your call.
+Fork or star, it's your call. 
+
+YOU CAN INSTALL A MACOS-SUPPORTED WIFI CARD WITHOUT FLASHING THE BIOS. READ ON.
 
 ![X230 from 2012 Living The Catalina Dream!](https://i.redd.it/2vvckrfosi941.jpg)
 
@@ -55,9 +57,9 @@ Fingerprint reader & card-reader.
 
 1. Install [Transmac](https://www.acutesystems.com/scrtm.htm) on a Windows machine. It has a 15-day trial period and works flawlessly flashing DMG files to USB.
 
-2. Download the [macOS 10.15.2 with clover dmg file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP.
+2. Download the [macOS 10.15.2 with clover dmg file from here](https://mirrors.dtops.cc/iso/MacOS/daliansky_macos/) or other sources you come across Google SERP. Ignore the security notice when you visit mirrors.dtops.cc. You get that notice since they redistribute repacked DMGs.
 
-3. Download the EFI folder from this repo.
+3. Download the 10.15.2 EFI folder from this repo.
 
 4. Download [Clover Configurator for macOS](https://mackie100projects.altervista.org/download-clover-configurator/) (latest version).
 
@@ -84,4 +86,5 @@ Fingerprint reader & card-reader.
 All the best.
 
 ### Support
-![Donate](https://res.cloudinary.com/mighil/image/upload/v1578647638/donate-to-mighil.png)
+
+Support if you’d like by referring my [resume](https://migftw.com/mp.pdf) or donating through [PayPal](https://www.paypal.com/paypalme/mighil), [Phonepe](https://res.cloudinary.com/mighil/image/upload/v1589876497/phonepe_jtv6mp.png), or [Alipay](https://migftw.com/wp-content/uploads/2019/02/mighil-weixin-pay.jpg).
